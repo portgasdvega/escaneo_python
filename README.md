@@ -1,14 +1,3 @@
-¡Perfecto, Emiliano!
-Vamos a dejar tu proyecto documentado de forma profesional, clara y útil, sin adornos innecesarios.
-
----
-
-## 📄 `README.md` para tu script de escaneo
-
-Aquí tienes una versión sólida que puedes usar directamente en tu repositorio de GitHub:
-
----
-
 #  Escáner de Puertos Automatizado con Python y Nmap
 
 Este script automatiza un escaneo rápido de puertos TCP utilizando `nmap`, con opción para guardar los resultados en un archivo `.txt`. Es ideal para tareas de reconocimiento básicas en redes o prácticas de hacking ético.
